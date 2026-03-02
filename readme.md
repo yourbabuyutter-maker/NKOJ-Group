@@ -3,7 +3,9 @@ readme.MD
 Namn Grupp: NKOJ-GRUP
 Namn på alla deltagare: Nahom, Oliver, Konstantin, Jazz, Mark, Elias, Fauuud
 
-### Tävlar i kategori: 
+### Tävlar i kategori:
+Bästa AI-tillämpning och Bästa innovativa teknik
+
 ## Projekt & Teknisk- beskrivning
 Här skriver ni vad ni har gjort, försök att formulera det så att det blir relevant för kategorin ni tänker att ni tävlar i.
 T.ex. om ni har fokuserat på just UI/UX så är det mer relevant än om ni 
